@@ -1,0 +1,10 @@
+.vscode
+.idea
+src/*.o
+lib/*.o
+key_gen
+crypt_rsa
+crypt_rsa_file
+key.*
+file.*
+test*
